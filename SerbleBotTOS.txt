@@ -1,0 +1,31 @@
+TERMS OF SERVICE FOR SERBLE DISCORD BOT
+
+1. AGREEMENT TO TERMS
+By using Serble Discord Bot ("SERBLE BOT"), you agree to comply with and be bound by these Terms of Service ("TOS"). This Agreement is the complete and exclusive agreement between you and us (Developers of SERBLE BOT) related to our Service.
+
+2. USAGE & RESTRICTIONS
+2.1 SERBLE BOT allows you to perform commands on Discord. These commands must not be used for any unlawful or prohibited purposes.
+2.2 The content searching commands such as /image and /youtube must not be used to query unlawful content.
+2.3 You are not allowed to alter, manipulate, or disrupt the functionality of SERBLE BOT or the servers and networks connected to SERBLE BOT.
+2.4 Upon obtaining a copy of the source code you must deal with the obtained code in accordance with the MIT licence which should be provided with the source code.
+
+3. USER CONDUCT
+SERBLE BOT users are required to respect Discord's Terms of Service and Community Guidelines at all times when using its services, including those related to data privacy and intellectual property rights, among others.
+
+4. INTEGRITY OF SERVICE
+We reserve the right to disrupt or stop the operation of SERBLE BOT for any reason, including but not limited to repairs, planned maintenance, or upgrades, and will not be held liable for any such interruptions.
+
+5. PRIVACY AND DATA
+5.1 SERBLE BOT does not store or share users' personal data.
+5.2 SERBLE BOT will not use any data you provide for purposes other than its intended functionality, i.e., to process your commands.
+
+6. DISCLAIMER
+Use of SERBLE BOT is at your own risk. We offer no warranties, guarantees, or representations about the accuracy, reliability, availability, or completeness of the service.
+
+7. CHANGES TO THESE TERMS
+We reserve the right to update or amend these TOS at any time without prior notice. By continuing to use SERBLE BOT after changes are posted, you agree to be bound by the revised terms.
+
+8. CONTACT US
+For any questions about these TOS, please contact us using our Discord server (https://discord.serble.net) or by email (support@serble.net).
+
+By using SERBLE BOT, you are confirming that you understand and agree to these Terms of Service.
