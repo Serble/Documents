@@ -4,7 +4,7 @@ PRIVACY POLICY FOR SERBLE DISCORD BOT
 This privacy policy ("Policy") applies to your interaction with SERBLE Discord Bot ("SERBLE BOT"), owned and operated by us (SERBLE BOT Developers), and how we use your data.
 
 2. INFORMATION AND DATA COLLECTION
-SERBLE BOT does not collect, store, or share any personal or sensitive data from its users. It only processes the data necessary to execute commands as per users' requests. 
+SERBLE BOT does not collect, store, or share any personal or sensitive data from its users. It only processes the data necessary to execute commands as per users' requests, including but not limited to: command arguments, Discord provided user information.
 
 3. DATA USAGE
 The information that SERBLE BOT processes includes the data required to execute a command (for example, a search query for the /youtube command or the /image command). We do not use the data for any other purposes. We may share it with third parties when such information sharing is needed to perform the desired action.
